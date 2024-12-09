@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=M1+ Pin=JP1-1
+Removed Pin From Net: NetName=M1- Pin=JP1-2
+Removed Pin From Net: NetName=M2+ Pin=JP1-3
+Removed Pin From Net: NetName=M2- Pin=JP1-4
+Removed Pin From Net: NetName=GND Pin=JP1-5
+Removed Pin From Net: NetName=12VDC Pin=JP1-6
+Removed Pin From Net: NetName=M3+ Pin=JP8-1
+Removed Pin From Net: NetName=M3- Pin=JP8-2
+Removed Pin From Net: NetName=M4+ Pin=JP8-3
+Removed Pin From Net: NetName=M4- Pin=JP8-4
+Removed Pin From Net: NetName=GND Pin=JP8-5
+Removed Pin From Net: NetName=12VDC Pin=JP8-6
+Removed Pin From Net: NetName=M5+ Pin=JP9-1
+Removed Pin From Net: NetName=M5- Pin=JP9-2
+Removed Pin From Net: NetName=M6+ Pin=JP9-3
+Removed Pin From Net: NetName=M6- Pin=JP9-4
+Removed Pin From Net: NetName=GND Pin=JP9-5
+Removed Pin From Net: NetName=12VDC Pin=JP9-6
+Removed Member From Class: ClassName=Sheet1 Member=JP1
+Removed Member From Class: ClassName=Sheet1 Member=JP8
+Removed Member From Class: ClassName=Sheet1 Member=JP9
+Added Room: Name=Sheet1

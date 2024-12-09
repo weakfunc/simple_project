@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=DIR_M2 Pin=JP7-6
+Added Pin To Net: NetName=DIR_M1 Pin=JP7-7
+Added Pin To Net: NetName=DIR_M4 Pin=JP7-10
+Added Pin To Net: NetName=DIR_M4 Pin=JP7-17
+Added Pin To Net: NetName=DIR_M3 Pin=JP7-18
+Added Pin To Net: NetName=PB0 Pin=U1-15
+Added Pin To Net: NetName=PB11 Pin=U1-23
+Added Pin To Net: NetName=PA1 Pin=U3-15
+Added Pin To Net: NetName=PA2 Pin=U3-23
+Added Pin To Net: NetName=DIR_M4 Pin=U5-22
+Added Pin To Net: NetName=PA7 Pin=U5-23
+Added Pin To Net: NetName=DIR_M4 Pin=U6-3
+Added Pin To Net: NetName=DIR_M6 Pin=U5-16
+Added Pin To Net: NetName=DIR_M6 Pin=U6-1
+Added Net: Name=DIR_M6
+Added Pin To Net: NetName=PWM_M6 Pin=U5-15
+Added Net: Name=PWM_M6
+Added Room: Name=Sheet1

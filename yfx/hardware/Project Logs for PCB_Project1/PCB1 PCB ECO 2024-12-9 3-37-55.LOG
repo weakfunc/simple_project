@@ -1,0 +1,77 @@
+Change Component Footprint: Designator=AMASS1 Old Footprint=XT30PW-F New Footprint=XT30_M
+Change component parameters: Designator = "LS1"; Footprint = "BUZZER_1260_I"; UniqueID = "\HAFBSDOQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "蜂鸣器"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(XH2.54-WI-6P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "6P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(XH2.54-WI-6P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "6P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(XH2.54-WI-6P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "6P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(XH2.54-WI-6P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "6P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(XH2.54-WI-6P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "6P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=M1+ Pin=JP?-1
+Added Pin To Net: NetName=M2+ Pin=JP?-1
+Added Pin To Net: NetName=M3+ Pin=JP?-1
+Added Pin To Net: NetName=M4+ Pin=JP?-1
+Added Pin To Net: NetName=M5+ Pin=JP?-1
+Added Pin To Net: NetName=5V Pin=JP?-2
+Added Pin To Net: NetName=5V Pin=JP?-2
+Added Pin To Net: NetName=5V Pin=JP?-2
+Added Pin To Net: NetName=5V Pin=JP?-2
+Added Pin To Net: NetName=5V Pin=JP?-2
+Added Pin To Net: NetName=GND Pin=JP?-5
+Added Pin To Net: NetName=GND Pin=JP?-5
+Added Pin To Net: NetName=GND Pin=JP?-5
+Added Pin To Net: NetName=GND Pin=JP?-5
+Added Pin To Net: NetName=GND Pin=JP?-5
+Added Pin To Net: NetName=M1- Pin=JP?-6
+Added Pin To Net: NetName=M2- Pin=JP?-6
+Added Pin To Net: NetName=M3- Pin=JP?-6
+Added Pin To Net: NetName=M4- Pin=JP?-6
+Added Pin To Net: NetName=M5- Pin=JP?-6
+Added Pin To Net: NetName=FBD+_1 Pin=JP?-3
+Added Net: Name=FBD+_1
+Added Pin To Net: NetName=FBD+_2 Pin=JP?-3
+Added Net: Name=FBD+_2
+Added Pin To Net: NetName=FBD+_3 Pin=JP?-3
+Added Net: Name=FBD+_3
+Added Pin To Net: NetName=FBD+_4 Pin=JP?-3
+Added Net: Name=FBD+_4
+Added Pin To Net: NetName=FBD+_5 Pin=JP?-3
+Added Net: Name=FBD+_5
+Added Pin To Net: NetName=FBD-_1 Pin=JP?-4
+Added Net: Name=FBD-_1
+Added Pin To Net: NetName=FBD-_2 Pin=JP?-4
+Added Net: Name=FBD-_2
+Added Pin To Net: NetName=FBD-_3 Pin=JP?-4
+Added Net: Name=FBD-_3
+Added Pin To Net: NetName=FBD-_4 Pin=JP?-4
+Added Net: Name=FBD-_4
+Added Pin To Net: NetName=FBD-_5 Pin=JP?-4
+Added Net: Name=FBD-_5
+Added Member To Class: ClassName=Sheet1 Member=Component JP? HDR-1X6
+Added Member To Class: ClassName=Sheet1 Member=Component JP? HDR-1X6
+Added Member To Class: ClassName=Sheet1 Member=Component JP? HDR-1X6
+Added Member To Class: ClassName=Sheet1 Member=Component JP? HDR-1X6
+Added Member To Class: ClassName=Sheet1 Member=Component JP? HDR-1X6
+Added Room: Name=Sheet1

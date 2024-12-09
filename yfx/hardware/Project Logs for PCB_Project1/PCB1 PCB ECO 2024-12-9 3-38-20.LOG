@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1
+Change Component Designator: OldDesignator=JP? NewDesignator=JP8
+Change Component Designator: OldDesignator=JP? NewDesignator=JP9
+Change Component Designator: OldDesignator=JP? NewDesignator=JP10
+Change Component Designator: OldDesignator=JP? NewDesignator=JP11
+Added Member To Class: ClassName=Sheet1 Member=Component JP8 HDR-1X6
+Added Member To Class: ClassName=Sheet1 Member=Component JP9 HDR-1X6
+Added Member To Class: ClassName=Sheet1 Member=Component JP10 HDR-1X6
+Added Member To Class: ClassName=Sheet1 Member=Component JP11 HDR-1X6
+Added Room: Name=Sheet1
