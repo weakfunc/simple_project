@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=FBD+_2 Pin=JP6-10
+Removed Pin From Net: NetName=FBD-_2 Pin=JP6-11
+Removed Pin From Net: NetName=FBD+_5 Pin=JP6-12
+Added Pin To Net: NetName=FBD+_5 Pin=JP7-11
+Added Pin To Net: NetName=FBD-_2 Pin=JP7-12
+Added Pin To Net: NetName=FBD+_2 Pin=JP7-13
+Added Pin To Net: NetName=PA15 Pin=JP6-10
+Added Net: Name=PA15
+Added Pin To Net: NetName=PB3 Pin=JP6-11
+Added Net: Name=PB3
+Added Pin To Net: NetName=PB4 Pin=JP6-12
+Added Net: Name=PB4

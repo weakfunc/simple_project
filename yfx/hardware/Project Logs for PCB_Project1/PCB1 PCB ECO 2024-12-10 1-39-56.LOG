@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=DIR_M2 Pin=JP7-7
+Change Component Footprint: Designator=AMASS1 Old Footprint=XT30U-M New Footprint=XT30UPB-F
+Added Pin To Net: NetName=DIR_M2 Pin=JP7-5
+Added Pin To Net: NetName=PB1 Pin=JP7-7
+Added Pin To Net: NetName=PB1 Pin=U1-23
+Added Net: Name=PB1
