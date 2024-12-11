@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=SW? Old Footprint=TSW SMD-6*6*4.3 New Footprint=TSW SMD-3*4*2
+Change Component Footprint: Designator=SW? Old Footprint=TSW SMD-6*6*4.3 New Footprint=TSW SMD-3*4*2
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Component Designator: OldDesignator=SW? NewDesignator=SW2
+Added Member To Class: ClassName=Sheet1 Member=Component SW1 6x6x5

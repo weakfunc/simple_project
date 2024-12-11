@@ -1,0 +1,31 @@
+Added Component: Designator=JP11(HDR2.54-LI-9P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "9P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP12(HDR2.54-LI-9P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "9P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=JP11-1
+Added Pin To Net: NetName=GND Pin=JP11-2
+Added Pin To Net: NetName=3V3_CORE Pin=JP11-3
+Added Pin To Net: NetName=GP0 Pin=JP11-4
+Added Pin To Net: NetName=GP1 Pin=JP11-5
+Added Pin To Net: NetName=GP2 Pin=JP11-6
+Added Pin To Net: NetName=GP3 Pin=JP11-7
+Added Pin To Net: NetName=GP4 Pin=JP11-8
+Added Pin To Net: NetName=GP5 Pin=JP11-9
+Added Pin To Net: NetName=UART0_TX Pin=JP12-1
+Added Pin To Net: NetName=UART0_RX Pin=JP12-2
+Added Pin To Net: NetName=GP13 Pin=JP12-3
+Added Pin To Net: NetName=GP12 Pin=JP12-4
+Added Pin To Net: NetName=GP23 Pin=JP12-5
+Added Pin To Net: NetName=GP20 Pin=JP12-6
+Added Pin To Net: NetName=GP19 Pin=JP12-7
+Added Pin To Net: NetName=GP18 Pin=JP12-8
+Added Pin To Net: NetName=GP9 Pin=JP12-9
+Added Member To Class: ClassName=Sheet3 Member=Component JP10 HDR-1X8
+Added Member To Class: ClassName=Sheet3 Member=Component JP11 HDR-1X9
+Added Member To Class: ClassName=Sheet3 Member=Component JP12 HDR-1X9

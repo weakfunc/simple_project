@@ -1,0 +1,55 @@
+Change component parameters: Designator = "1"; Footprint = "M3 125X200"; UniqueID = "\DJDRVFOH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "铜柱孔"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "2"; Footprint = "M3 125X200"; UniqueID = "\PBBWROXR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "铜柱孔"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "3"; Footprint = "M3 125X200"; UniqueID = "\XCXLMBFH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "铜柱孔"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "4"; Footprint = "M3 125X200"; UniqueID = "\NPIOSTIJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "铜柱孔"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=JP8-1
+Added Pin To Net: NetName=GND Pin=JP8-2
+Added Pin To Net: NetName=3V3_CORE Pin=JP8-3
+Added Net: Name=3V3_CORE
+Added Pin To Net: NetName=GP0 Pin=JP8-4
+Added Net: Name=GP0
+Added Pin To Net: NetName=GP1 Pin=JP8-5
+Added Net: Name=GP1
+Added Pin To Net: NetName=GP2 Pin=JP8-6
+Added Net: Name=GP2
+Added Pin To Net: NetName=GP3 Pin=JP8-7
+Added Net: Name=GP3
+Added Pin To Net: NetName=GP4 Pin=JP8-8
+Added Net: Name=GP4
+Added Pin To Net: NetName=GP5 Pin=JP8-9
+Added Net: Name=GP5
+Added Pin To Net: NetName=GP9 Pin=JP9-9
+Added Net: Name=GP9
+Added Pin To Net: NetName=GP12 Pin=JP9-4
+Added Net: Name=GP12
+Added Pin To Net: NetName=GP13 Pin=JP9-3
+Added Net: Name=GP13
+Added Pin To Net: NetName=GP18 Pin=JP9-8
+Added Net: Name=GP18
+Added Pin To Net: NetName=GP19 Pin=JP9-7
+Added Net: Name=GP19
+Added Pin To Net: NetName=GP20 Pin=JP9-6
+Added Net: Name=GP20
+Added Pin To Net: NetName=GP23 Pin=JP9-5
+Added Net: Name=GP23
+Added Pin To Net: NetName=UART0_RX Pin=JP9-2
+Added Net: Name=UART0_RX
+Added Pin To Net: NetName=UART0_TX Pin=JP9-1
+Added Net: Name=UART0_TX
+Added Member To Class: ClassName=Sheet3 Member=Component JP10 HDR-1X8
