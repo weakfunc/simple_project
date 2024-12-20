@@ -1,0 +1,22 @@
+Change Component Comment : Designator=TP? Old Comment=TEST New Comment=BAT+
+Change Component Comment : Designator=TP? Old Comment=TEST New Comment=BAT-
+Change Component Designator: OldDesignator=TP? NewDesignator=TP1
+Change Component Designator: OldDesignator=TP? NewDesignator=TP2
+Change component parameters: Designator = "D1"; Footprint = "SOD-123"; UniqueID = "\YPTFGMKA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "整流二极管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2"; Footprint = "SOD-123"; UniqueID = "\AVNKUNNA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "整流二极管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED 3528-RGB)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=LED1-2
+Added Pin To Net: NetName=VSS Pin=LED1-4
+Added Pin To Net: NetName=LED Pin=LED1-3
+Added Net: Name=LED
+Added Member To Class: ClassName=Sheet2 Member=Component LED1 Colour
+Added Member To Class: ClassName=Sheet2 Member=Component TP1 BAT+
