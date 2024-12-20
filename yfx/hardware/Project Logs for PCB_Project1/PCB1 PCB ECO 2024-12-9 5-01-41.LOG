@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=PA7 Pin=U5-23
-Added Pin To Net: NetName=PWM_M5 Pin=U5-23
-Added Net: Name=PWM_M5
-Added Room: Name=Sheet1

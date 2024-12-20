@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=BEEF Pin=JP15-3
-Added Pin To Net: NetName=BEEF Pin=JP15-19
-Added Pin To Net: NetName=PA8 Pin=JP15-3
-Added Net: Name=PA8

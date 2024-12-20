@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=DIR_M2 Pin=JP7-6
-Removed Pin From Net: NetName=DIR_M1 Pin=JP7-7
-Added Pin To Net: NetName=DIR_M1 Pin=JP7-6
-Added Pin To Net: NetName=DIR_M2 Pin=JP7-7

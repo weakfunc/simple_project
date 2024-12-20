@@ -1,12 +1,12 @@
 Board Information Report
 Filename     : D:\Pro_master\a\hhl\hardware\PCB2.PcbDoc
-Date         : 2024/12/12
-Time         : 5:46:24
+Date         : 2024/12/13
+Time         : 2:36:29
 Time Elapsed : 00:00:00
 
 Routing Information
     Routing completion, 100.00%
-    Connections, 59
-    Connections routed, 59
+    Connections, 66
+    Connections routed, 66
     Connections remaining, 0
 count : 4

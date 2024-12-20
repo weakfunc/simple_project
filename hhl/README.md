@@ -8,12 +8,6 @@
 
 4.设计上位机
 
-## 物料成本
+## 参考文档
 
-| 名称           | 单价  | 数量 | 备注 |
-| -------------- | ----- | ---- | ---- |
-| QX1150扫码模块 | 155   | 1    |      |
-| 传送带         | 41    | 1    |      |
-| 舵机           | 14.33 | 2    |      |
-| ESP32          |       |      |      |
-
+ESP32C6开发板：[ESP32 C6开发板1.47寸LCD显示屏172x320带RGB灯SD槽兼容Arduino](https://spotpear.cn/wiki/ESP32-C6-1.47-inch-LCD-Display-Screen-LVGL-SD-WIFI6-ST7789.html)

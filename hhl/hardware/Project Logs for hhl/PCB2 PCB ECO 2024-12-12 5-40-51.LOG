@@ -1,7 +1,0 @@
-Added Pin To Net: NetName=DIR_A Pin=JP9-8
-Added Pin To Net: NetName=AIN1 Pin=JP9-9
-Added Pin To Net: NetName=GP19 Pin=JP11-1
-Added Pin To Net: NetName=DIR_A Pin=JP12-8
-Added Pin To Net: NetName=AIN1 Pin=JP12-9
-Added Member To Class: ClassName=Sheet3 Member=Component JP10 HDR-1X8
-Added Member To Class: ClassName=Sheet3 Member=Component JP11 HDR-1X9

@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=KEY2 Pin=JP6-1
-Added Pin To Net: NetName=DIR_M1 Pin=JP6-1
-Added Pin To Net: NetName=DIR_M2 Pin=JP6-3
-Added Room: Name=Sheet1

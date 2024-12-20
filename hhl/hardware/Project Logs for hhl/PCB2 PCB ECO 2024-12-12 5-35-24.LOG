@@ -1,4 +1,0 @@
-Added Pin To Net: NetName=12VDC Pin=JP10-1
-Change Net Name : Old Net Name=12VDC New Net Name=12V
-Added Member To Class: ClassName=Sheet3 Member=Component JP10 HDR-1X8
-Added Member To Class: ClassName=Sheet3 Member=Component JP11 HDR-1X9
