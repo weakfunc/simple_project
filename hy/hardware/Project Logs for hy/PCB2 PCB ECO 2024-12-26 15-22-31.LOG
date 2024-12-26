@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=VUSB Pin=USB1-A9
+Added Pin To Net: NetName=VUSB Pin=USB1-B4
+Added Pin To Net: NetName=VUSB Pin=USB1-B9
+Added Member To Class: ClassName=Sheet2 Member=Component LED1 Colour
+Added Member To Class: ClassName=Sheet2 Member=Component TP2 TX0

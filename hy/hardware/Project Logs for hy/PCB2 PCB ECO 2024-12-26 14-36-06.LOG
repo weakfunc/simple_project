@@ -1,0 +1,17 @@
+Added Component: Designator=U6(LCD)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=LEDK Pin=U6-2
+Added Pin To Net: NetName=3V3 Pin=U6-3
+Added Pin To Net: NetName=3V3 Pin=U6-4
+Added Pin To Net: NetName=GND Pin=U6-5
+Added Pin To Net: NetName=GND Pin=U6-6
+Added Pin To Net: NetName=LDC_DC Pin=U6-7
+Added Pin To Net: NetName=GND Pin=U6-8
+Added Pin To Net: NetName=LCD_CLK Pin=U6-9
+Added Pin To Net: NetName=LCD_SDA Pin=U6-10
+Added Pin To Net: NetName=LCD_RES Pin=U6-11
+Added Pin To Net: NetName=GND Pin=U6-12
+Added Member To Class: ClassName=Sheet2 Member=Component LED1 Colour
+Added Member To Class: ClassName=Sheet2 Member=Component U6 LCD
+Added Room: Name=Sheet2

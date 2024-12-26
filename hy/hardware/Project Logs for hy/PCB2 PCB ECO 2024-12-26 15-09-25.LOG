@@ -1,0 +1,28 @@
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1
+Added Component: Designator=TP2(TEST 1.6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "测试点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(TEST 1.6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "测试点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GPIO4 Pin=LED1-3
+Added Pin To Net: NetName=GPIO19 Pin=R10-1
+Added Pin To Net: NetName=GPIO18 Pin=R11-1
+Added Pin To Net: NetName=GPIO8 Pin=R13-1
+Added Pin To Net: NetName=U0TXD Pin=TP2-1
+Added Pin To Net: NetName=U0RXD Pin=TP3-1
+Added Pin To Net: NetName=BEEF Pin=U1-4
+Added Pin To Net: NetName=GPIO2 Pin=U6-7
+Added Pin To Net: NetName=GPIO6 Pin=U6-9
+Added Pin To Net: NetName=GPIO7 Pin=U6-10
+Added Pin To Net: NetName=GPIO10 Pin=U6-11
+Added Pin To Net: NetName=SPICLK Pin=U1-22
+Added Net: Name=SPICLK
+Added Member To Class: ClassName=Sheet2 Member=Component LED1 Colour
+Added Member To Class: ClassName=Sheet2 Member=Component TP2 TX0
+Added Member To Class: ClassName=Sheet2 Member=Component TP3 RX0
+Added Member To Class: ClassName=Sheet2 Member=Component U6 LCD

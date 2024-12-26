@@ -1,0 +1,11 @@
+Added Component: Designator=JP?(HDR2.54-LI-3P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "3P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BOOT Pin=JP?-1
+Added Pin To Net: NetName=VSS Pin=JP?-2
+Added Pin To Net: NetName=CHIP_EN Pin=JP?-3
+Added Pin To Net: NetName=LCD_CLK Pin=U1-22
+Added Member To Class: ClassName=Sheet2 Member=Component JP? HDR-1X3
+Added Member To Class: ClassName=Sheet2 Member=Component LED1 Colour
